@@ -77,40 +77,31 @@ its Fully Responsive Mytheresa web application that allows you to Clothes , Acce
 - Product Page 
 - Product Description Page
 - Cart Management Page
-- Wishlist
-- Checkout with Address Management Page
-- Login / Logout Page
-- Order Summary Page
+- Checkout with Address Page
+- Login Page
 - Single Product Page
 - User Profile
+- About Me
 
 
 
 <br />
 
 
-## 🚀 Admin Features
-- All Statistics and Revenue Generated 
-- All Users Data
-- Can Delete Product From DB
-- Can Add Product to DB
-- Track Users Data
-- Live Sales and Revenue
-- Pending Purchase Future Revenue
  
 ## 🚀 User Features
 - Login and Signup User Account
 - Product Visit
 - My Orders Section for details of all ordered item
-- Wishlist Add and Remove Items
 - Cart Add and Remove Items 
 - Cart Update Quantities 
-- Address Management
+- Search Bar for searching product
+- Filter by Catergory, Brands, Colour and Sort by price.
 - Order Summary
 
 <br />
 
-## Glimpses of JustShop.com 🙈 :
+## Glimpses of Mytheresa.com  :
 
 
 
@@ -150,7 +141,7 @@ its Fully Responsive Mytheresa web application that allows you to Clothes , Acce
 
 ## Getting Started
 
-This project was built using React, Chakra UI, HTML, CSS, JavaScript, Rest API . It is an e-commerce web application and for running on your local environment you should follow these guidelines.
+This project was built using React,Node.js,MongoDB, Chakra UI, HTML, CSS, JavaScript, Rest API . It is an e-commerce web application and for running on your local environment you should follow these guidelines.
 
 
 
@@ -189,7 +180,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### Tools used on this project
 
 - Visual Studio Code
-- Vite-JS template
+
 
 <br />
 
@@ -198,12 +189,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Contact
 
 If you want to contact me, you can reach me through below handles. <br />
-[![linkedin](https://img.shields.io/badge/Sufiyan_Shaikh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufiyan-shaikh-9bb808183/)
-[![GitHub](https://img.shields.io/badge/Sufiyan_Shaikh-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/suFi7867)
+[![linkedin](https://img.shields.io/badge/mayuresh_bailurkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuresh-bailurkar/)
+[![GitHub](https://img.shields.io/badge/mayuresh_bailurkar-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/MAYURESHBAILURKAR)
 
 
 
-© 2022 Sufiyan Shaikh
+© 2022 Mayuresh Bailurkar
 
 
 
