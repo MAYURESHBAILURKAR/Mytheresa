@@ -51,7 +51,9 @@
 </p>
 
 
+<br></br>
 
+<h2 align="center">Deployed Link : 🌟</h2>
 
 <h3 align="center"><a href="https://mytheresa-neon.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
@@ -108,30 +110,21 @@ its Fully Responsive Mytheresa web application that allows you to Clothes , Acce
 
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/VgzzcTR/1.png"  alt="home" /></td>
-    <td><img  src="https://i.ibb.co/JFK5fRP/2.png"  alt="coupons" /></td>
+    <td><img src="https://user-images.githubusercontent.com/80781196/211769664-7b8de855-0ebc-45a4-a138-38f8ae2ffcca.png"  alt="home" /></td>
+    <td><img  src="https://user-images.githubusercontent.com/80781196/211769672-02a73c9d-f2c6-43ab-a946-e296adaac58d.png"  alt="allProducts" /></td>
   </tr>
   <tr>
-   <td><img src="https://i.ibb.co/T1tSCkk/3.png"  alt="allProducts" /></td>
-    <td><img src="https://i.ibb.co/zFMJfBs/4.png"  alt="men" /></td>
+   <td><img src="https://user-images.githubusercontent.com/80781196/211769682-ada7f5b5-90a5-41ef-aed1-592c11971477.png"  alt="singleProducts" /></td>
+    <td><img src="https://user-images.githubusercontent.com/80781196/211769679-2b242de7-af11-4e95-9f77-4c4a627744dc.png"  alt="men" /></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/CwCX5J2/5.png" alt="allProducts" /></td>
-    <td><img src="https://i.ibb.co/BNV9pbB/6.png"  alt="men" /></td>
+    <td><img src="https://user-images.githubusercontent.com/80781196/211769690-db0949a5-9f3b-4f73-a011-4a950fec3c87.png" alt="allProducts" /></td>
+    <td><img src="https://user-images.githubusercontent.com/80781196/211769695-5615fe64-caf5-4817-9fbf-94a398356c5c.png"  alt="men" /></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/WscWdyY/7.png"  alt="women" /></td>
-    <td><img src="https://i.ibb.co/YP8g1vK/8.png"  alt="kids" /></td>
+    <td><img src="https://user-images.githubusercontent.com/80781196/211769661-4a85f6b8-10e7-4f65-abc8-17387a1a1ff4.png"  alt="kids" /></td>
+    <td><img src="https://user-images.githubusercontent.com/80781196/211769653-a98d255d-b398-4dc0-80a2-98279062c319.png"  alt="women" /></td>
   </tr>
-   <tr>
-    <td><img src="https://i.ibb.co/Z8QWDJX/9.png"   alt="women" /></td>
-    <td><img src="https://i.ibb.co/VHkbmYJ/10.png"   alt="kids" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.ibb.co/FzKxvks/11.png""  alt="description" /></td>
-    <td><img src="https://i.ibb.co/BcMyGc6/12.png"   alt="descriptionDark" /></td>
-  </tr>
-  
 
 </table>
 
@@ -201,5 +194,7 @@ If you want to contact me, you can reach me through below handles. <br />
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+
 
 
